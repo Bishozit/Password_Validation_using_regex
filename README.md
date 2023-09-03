@@ -1,16 +1,3 @@
-# password_validation_regex
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![RegEx_1](https://github.com/Bishozit/password_validation_using_regex_in_flutter/assets/110930138/8e41bc6f-183b-4eb3-9647-73ceeac6e23b)
+![RegEx_2](https://github.com/Bishozit/password_validation_using_regex_in_flutter/assets/110930138/2c5b42b4-3de9-4eda-bc48-756343fe265f)
+![RegEx_3](https://github.com/Bishozit/password_validation_using_regex_in_flutter/assets/110930138/a0856f36-359a-447c-9351-e887043015bf)
